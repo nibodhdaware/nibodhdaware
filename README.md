@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @nibodhdaware
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nibodhdaware/nibodhdaware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Python, Android, Web
+- 🌱 I’m currently in College
+- Instagram ➡️ https://www.instagram.com/nibodhdaware/
+- LinkedIn ➡️ https://www.linkedin.com/in/nibodh-daware-71b1b5203/
+- YouTube ➡️ https://www.youtube.com/channel/UCWfwqQyLv4PGJxP6ONWPVwA?app=desktop
