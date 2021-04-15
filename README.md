@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nibodhdaware
-- 👀 I’m interested in Python, Android, Web
+- 👀 I’m interested in Python, Web
 - 🌱 I’m currently in College
 - Instagram ➡️ https://www.instagram.com/nibodhdaware/
 - LinkedIn ➡️ https://www.linkedin.com/in/nibodh-daware-71b1b5203/
