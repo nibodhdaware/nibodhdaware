@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/nibodhdaware" target="blank"><img src="https://img.shields.io/twitter/follow/nibodhdaware?logo=twitter&style=for-the-badge" alt="nibodhdaware" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently trying to make a living with code
 
-- 📝 I regularly write articles on [https://nibodhdaware.me](https://nibodhdaware.me)
+- 👨🏽‍💻 I'm available to work [Fiverr](https://www.fiverr.com/nibodhdaware)
 
-- 💬 Ask me about **Python, React, Web Dev**
+- 📹 I make videos on [YouTube](https://youtube.com/@nibobodhdaware)
 
 - 📫 How to reach me **nibodhdaware@gmail.com**
 
