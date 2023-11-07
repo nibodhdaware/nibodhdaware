@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Nibodh Daware</h1>
-<h3 align="center">Trying to achieve my dreams through code</h3>
-
-<p align="left"> <a href="https://twitter.com/nibodhdaware" target="blank"><img src="https://img.shields.io/twitter/follow/nibodhdaware?logo=twitter&style=for-the-badge" alt="nibodhdaware" /></a> </p>
-
 - 🌱 I’m currently trying to make a living with code
 
 - 👨🏽‍💻 I'm available to work [Fiverr](https://www.fiverr.com/nibodhdaware)
